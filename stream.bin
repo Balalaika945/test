@@ -4,6 +4,8 @@ int main()
 	printf("Am schimbat codul");
 	printf("Am schimbat iar codul");
 	printf("si din nou");
+	printf("21:36");
+	
 	
 	
 	
