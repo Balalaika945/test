@@ -7,6 +7,7 @@ int main()
 	printf("21:36");
 	printf("21:40");
 	printf("21:48");
+	printf("21:51");
 	
 	
 	
