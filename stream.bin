@@ -2,5 +2,9 @@ int main()
 {
 	// do stuff
 	printf("Am schimbat codul");
+	printf("Am schimbat iar codul");
+	
+	
+	
 	return 0;
 }
